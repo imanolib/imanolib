@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaraDe3
-- 😕 I don't know how to code
-- 👀 Made a github account just to comment issues and stuff like that
+- I just started learning how to program
+- 2nd Year electrical engineering student
 
 <!---
 CaraDe3/CaraDe3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
