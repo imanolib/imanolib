@@ -1,5 +1,5 @@
 - 👋 Hi, I’m imanolib
-- I just started learning how to program
+- I just started learning how to code
 - 2nd Year electrical engineering student
 
 <!---
